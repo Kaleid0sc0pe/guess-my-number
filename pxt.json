@@ -1,5 +1,5 @@
 {
-    "name": "Guess My Number",
+    "name": "Is It Even",
     "description": "",
     "dependencies": {
         "device": "*"
